@@ -6,3 +6,4 @@ print("Going to sleep for 2 seconds..if you want to kill the container , set SLE
 print("Waiting...")
 time.sleep(SLEEP)
 print("Script done successfully!")
+exit()
