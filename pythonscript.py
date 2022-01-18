@@ -1,6 +1,6 @@
 import time
 
-SLEEP = 5
+SLEEP = 30
 print("Hello, This is a python script for docker project")
 print(f"Going to sleep for {SLEEP} seconds..if you want to kill the container , set SLEEP variable to 20")
 print("Waiting...")
